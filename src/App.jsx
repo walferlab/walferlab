@@ -25,6 +25,7 @@ function App() {
         <Route path="/blogs" element={<Blogs />} />
         <Route path="/*" element={<Error404 />} />
       </Routes>
+      <Analytics />
     </>
   )
 }
