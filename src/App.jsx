@@ -7,7 +7,7 @@ import ProjectDetails from './pages/projectdetail/page';
 import Error404 from './pages/error/page';
 import Services from './pages/services/page';
 import Blogs from './pages/blogs/page';
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
 
