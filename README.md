@@ -8,8 +8,8 @@ I build and ship production-ready web products, from idea to live deployment.
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Portfolio-walferlab.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://walferlab.com)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=111111&label=Followers)](https://github.com/YOUR_USERNAME)
+[![Website](https://img.shields.io/badge/walferlab?style=for-the-badge&logo=googlechrome&logoColor=white)](https://walferlab.com)
+[![GitHub followers](https://img.shields.io/github/followers/walferlab?style=for-the-badge&logo=github&color=111111&label=Followers)](https://github.com/walferlab)
 
 </div>
 
@@ -18,9 +18,7 @@ I build and ship production-ready web products, from idea to live deployment.
 ## About me
 
 - 🚀 Founder of **WalferLab**, a solo studio building and running multiple live products
-- 🎓 Pursuing B.Tech in AI & Data Science at **JECRC Foundation, Jaipur** (2025–2029)
 - 💼 Available for freelance full-stack work
-- 📍 Based in Jaipur, India
 
 ---
 
@@ -61,23 +59,12 @@ I build and ship production-ready web products, from idea to live deployment.
 
 ---
 
-## Projects
-
-| Project | What it is |
-|---|---|
-| [**PDF Lovers**](https://pdflovers.app) | PDF discovery platform with a custom admin panel |
-| [**ResumeLovers**](https://resume.pdflovers.app) | AI-powered resume builder |
-| [**MetricMart Sellers Club**](https://metricmart.in) | Seller marketplace platform |
-| [**WalferLab**](https://walferlab.com) | Studio site and portfolio |
-
----
-
 ## GitHub stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=walferlab&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walferlab&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=6" />
 
 </div>
 
