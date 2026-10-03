@@ -8,7 +8,7 @@ I build and ship production-ready web products, from idea to live deployment.
 
 <br/>
 
-[![Website](https://img.shields.io/badge/walferlab?style=for-the-badge&logo=googlechrome&logoColor=white)](https://walferlab.com)
+[![Website](https://img.shields.io/badge/Portfolio-walferlab.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://walferlab.com)
 [![GitHub followers](https://img.shields.io/github/followers/walferlab?style=for-the-badge&logo=github&color=111111&label=Followers)](https://github.com/walferlab)
 
 </div>
@@ -75,6 +75,6 @@ I build and ship production-ready web products, from idea to live deployment.
 ### Let's build something together
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://walferlab.com)
-[![Upwork](https://img.shields.io/badge/Hire_me_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com)
+[![Upwork](https://img.shields.io/badge/Hire_me_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b1a6d0c5bcda5f67?mp_source=share)
 
 </div>
